@@ -1,0 +1,2 @@
+# GoldCo
+A new crypto.
